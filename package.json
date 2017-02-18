@@ -1,0 +1,30 @@
+{
+  "name": "uas_app",
+  "productName":"United African States (uas)",
+  "version": "1.0.0",
+  "description": "This is a simple app for United African States",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hirekaan Micheal Hemen (hirekaanmicheal@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-animate": "^1.6.2",
+    "angular-aria": "^1.6.2",
+    "angular-data-grid": "^0.1.0",
+    "angular-material": "^1.1.3",
+    "angular-route": "^1.6.2",
+    "angular-sanitize": "^1.6.2",
+    "angular-utils-pagination": "^0.11.1",
+    "jsonfile": "^2.4.0",
+    "nedb": "^1.8.0",
+    "npm": "^4.2.0",
+    "xlsx2json": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^13.9.0",
+    "electron-packager": "^8.5.1"
+  }
+}
